@@ -1,0 +1,10 @@
+
+.form-title {
+	display: inline-flex;
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+}
+
+i {
+	text-align: center;
+}	
